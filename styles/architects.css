@@ -266,12 +266,12 @@ footer p{
 
     #experience-badge{
         margin-top: 20px;
-        margin-left: 20px;
+        margin-left: 10px;
     }
 
     footer{
         width: 100%;
-        margin: auto 20 auto 20px;
+        margin: auto 20px auto 20px;
     }
 
     footer p{
